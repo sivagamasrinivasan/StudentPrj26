@@ -11,7 +11,7 @@ package testprj;
 public class Student {
     private String name;
     private int sid;
-
+// tday may 25th
     /**
      * @return the name
      */
