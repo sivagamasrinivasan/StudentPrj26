@@ -11,6 +11,7 @@ package testprj;
 public class Student {
     private String name;
     private int sid;
+    private int semester;
 // tday may 25th
     /**
      * @return the name
