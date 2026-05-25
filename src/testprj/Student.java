@@ -10,6 +10,7 @@ package testprj;
  */
 public class Student {
     private String name;
+    private int sid;
 
     /**
      * @return the name
